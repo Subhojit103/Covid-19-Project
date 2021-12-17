@@ -1,2 +1,8 @@
 # Covid-19-Project
 Classification of Covid-19 patients using high dimensional data reduction techniques with plasma proteomics dataset
+This project is divided into several parts to check diferent components of the dataset. 
+Data cleaning step using missing value ratio and percentage.
+Outlier detection and removal techniques using box plot and IQR
+Missing value imputation using KNN, mean, median
+Normalization using standardization, MIN-MAX scaling, Robust scaling.
+Dimension Reduction using Sure independent screening followed by LASSO.
